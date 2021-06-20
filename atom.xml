@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://shanjianhongyu.github.io</id>
+    <id>https://NovMaple.github.io</id>
     <title>我与非我</title>
-    <updated>2021-06-20T07:20:42.171Z</updated>
+    <updated>2021-06-20T07:24:57.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://shanjianhongyu.github.io"/>
-    <link rel="self" href="https://shanjianhongyu.github.io/atom.xml"/>
+    <link rel="alternate" href="https://NovMaple.github.io"/>
+    <link rel="self" href="https://NovMaple.github.io/atom.xml"/>
     <subtitle>Nothing but myself</subtitle>
-    <logo>https://shanjianhongyu.github.io/images/avatar.png</logo>
-    <icon>https://shanjianhongyu.github.io/favicon.ico</icon>
+    <logo>https://NovMaple.github.io/images/avatar.png</logo>
+    <icon>https://NovMaple.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 我与非我</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://shanjianhongyu.github.io/post/hello-gridea/</id>
-        <link href="https://shanjianhongyu.github.io/post/hello-gridea/">
+        <id>https://NovMaple.github.io/post/hello-gridea/</id>
+        <link href="https://NovMaple.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
